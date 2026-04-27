@@ -26,4 +26,4 @@ Run the browser application: `./gradlew :webApp:jsBrowserDevelopmentRun`
 
 ### Wasm Browser
 Run the browser application: `./gradlew :webApp:wasmJsBrowserDevelopmentRun`  
-
+Distribute: `./gradlew webApp:wasmJsBrowserDistribution`
